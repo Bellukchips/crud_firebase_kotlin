@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94823080122",
+    "project_id": "laundry-firebase-3314c",
+    "storage_bucket": "laundry-firebase-3314c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94823080122:android:298d45f6f60ea5f245e283",
+        "android_client_info": {
+          "package_name": "com.bellukstudio.laundry_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94823080122-l1udv85ufnvsm50eri9po4c5kf0e3ffv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ez6M_RIjP3DZI6IzqZJX4Jz4Cg8Zqo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94823080122-l1udv85ufnvsm50eri9po4c5kf0e3ffv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

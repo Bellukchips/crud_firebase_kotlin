@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laundry Firebase</string>
+    <string name="add_new_data">Add New Data</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="save_data">Save Data</string>
+</resources>
